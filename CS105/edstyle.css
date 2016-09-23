@@ -1,0 +1,15 @@
+body{
+	background-color:lightsteelblue; font-family:arial;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center; font-size: 1em;
+}
+div{
+	font-style: italic; font-size: 75%;
+}
+li{
+	font-weight:normal;
+}
